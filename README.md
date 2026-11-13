@@ -7,10 +7,10 @@ A modern, responsive, and intuitive Personal Finance & Money Tracker built with 
 ## 📸 Screenshots
 
 ### 1. Dashboard & Spending Analytics
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots1/dashboard-overview.png)
 
 ### 2. Budgets & Savings Goals Tracker
-![Savings Goals](screenshots/savings-goals-view.png)
+![Savings Goals](screenshots1/savings-goals-view.png)
 
 ---
 
